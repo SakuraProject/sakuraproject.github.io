@@ -4,6 +4,6 @@ SakuraBotに関するメモのような文章を集めました。
 ぜひ読んでみてください。
 
 ## 項目一覧
-* [ロールキーパーの使い方](role_keeper.md)
+* [ロールリンカーの使い方](role_linker.md)
 * [SakuraAdの使い方](sakura_ad.md)
 * [SakuraPointの使い方](sakura_point.md)
